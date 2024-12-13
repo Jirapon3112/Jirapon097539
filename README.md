@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jirapon097539
+- 👋 Hi, I’m @Jirapon
 - 👀 I’m interested in self-development through programming,  and ux ui, and I love keeping up with emerging technologies.
 - 🌱 I'm improving my coding skills and learning user interface (UI) design with tools like Figma, and I'm also exploring programming languages ​​like php and JavaScript.
 - 💞️ Looking to Collaborate On: I’d love to work with a team or individuals on projects related to website design, app development, or data management.
